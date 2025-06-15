@@ -37,3 +37,6 @@ The MCP Server Inspector provides a development interface for testing and debugg
 4. **Connect to the MCP server**
    
    Click the **Connect** button in the UI to execute `dist/index.js` and establish connection with the MCP server
+
+npm login
+npm publish --access public

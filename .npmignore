@@ -1,0 +1,31 @@
+# Development files
+src/
+*.ts
+!dist/*.d.ts
+tsconfig.json
+.eslintrc*
+.prettierrc*
+
+# Test files
+__tests__/
+*.test.*
+*.spec.*
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Build and config files
+.github/
+.vscode/
+.idea/
+*.log
+.env*
+.DS_Store
+
+# Development dependencies
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock 
